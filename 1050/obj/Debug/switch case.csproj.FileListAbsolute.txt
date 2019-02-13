@@ -1,0 +1,7 @@
+C:\Users\Otavio\source\repos\1050\1050\bin\Debug\1050.exe.config
+C:\Users\Otavio\source\repos\1050\1050\bin\Debug\1050.exe
+C:\Users\Otavio\source\repos\1050\1050\bin\Debug\1050.pdb
+C:\Users\Otavio\source\repos\1050\1050\obj\Debug\switch case.csprojAssemblyReference.cache
+C:\Users\Otavio\source\repos\1050\1050\obj\Debug\switch case.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\source\repos\1050\1050\obj\Debug\1050.exe
+C:\Users\Otavio\source\repos\1050\1050\obj\Debug\1050.pdb
